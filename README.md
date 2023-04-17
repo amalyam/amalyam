@@ -1,4 +1,4 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amalyam&show_icons=true&locale=en&layout=compact" alt="amalyam" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-six-15.vercel.app/api/top-langs?username=amalyam&show_icons=true&locale=en&layout=compact" alt="amalyam" /></p>
 
 <!--
 **amalyam/amalyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
