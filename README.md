@@ -5,12 +5,15 @@
   <li>Software engineer who pivoted from freelance education and non-profit work.</li>
   <li>Ambitious, hardworking, voracious learner, eager to grow.</li>
   <li>As an artist (sculpture, installation, stained glass, performance), I bring a keen eye for design to my work.</li>
+  <li>I worked in China for 3+ years (fun fact: I once organized a learning conference at the Great Wall)</li>
 </ul>
 <br/>
 
 Get a full picture of my work history here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalyam)
+
+or on my personal site [here](https://www.amalyamegerman.com/cs-profile)
 
 
 <br/>
@@ -58,7 +61,8 @@ Pair Programming, Object-Oriented Programming, Test-Driven Development
 <br/>
 
 ## Other Skills:
-Mandarin Chinese&nbsp;&nbsp; ![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Mailchimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black)
+Mandarin Chinese&nbsp;&nbsp;
+![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Mailchimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black)
 <br/>
 <br/>
 
