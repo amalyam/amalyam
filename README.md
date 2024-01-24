@@ -1,4 +1,4 @@
-## Hello, welcome to my profile ☀️
+## Hello! Welcome to my profile ☀️
 
 ## About Me:
 <ul>
@@ -7,7 +7,7 @@
   <li>As an artist (sculpture, installation, stained glass, performance), I bring a keen eye for design to my work.</li>
 </ul>
 
-Get a full picture of my work history here:
+Get a full picture of my work history here: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalyam)
 <br/>
 <br/>
@@ -18,6 +18,7 @@ Get a full picture of my work history here:
 **Skilled In:** 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
+
 
 **Learning:**
 
