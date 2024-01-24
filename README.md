@@ -13,9 +13,6 @@ Get a full picture of my work history here:
 <br/>
 <br/>
 <p><img align="left" align-items="center" src="https://github-readme-stats-sigma-six-15.vercel.app/api/top-langs?username=amalyam&show_icons=true&locale=en&layout=compact" alt="amalyam" />
-<br/>
-<br/>
-
 <div align-items="center" >
 ### Skilled In:
 
