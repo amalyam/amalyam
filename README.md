@@ -1,16 +1,19 @@
-<p><img align="left" src="https://github-readme-stats-sigma-six-15.vercel.app/api/top-langs?username=amalyam&show_icons=true&locale=en&layout=compact" alt="amalyam" /></p>
-
 ## Hello, welcome to my profile ☀️
 
-## About Me
-
+## About Me:
 <ul>
   <li>Software engineer who pivoted from freelance education and non-profit work.</li>
   <li>Ambitious, hardworking, voracious learner, eager to grow.</li>
   <li>As an artist (sculpture, installation, stained glass, performance), I bring a keen eye for design to my work.</li>
 </ul>
-  
+
+Get a full picture of my work history here:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalyam)
+<br/>
+<br/>
+<p><img align="left" src="https://github-readme-stats-sigma-six-15.vercel.app/api/top-langs?username=amalyam&show_icons=true&locale=en&layout=compact" alt="amalyam" /></p>
+<br/>
+<br/>
 
 **Skilled In:** 
 
