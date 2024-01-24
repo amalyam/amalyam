@@ -58,7 +58,7 @@ Pair Programming, Object-Oriented Programming, Test-Driven Development
 <br/>
 
 ## Other Skills:
-Mandarin Chinese ![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Mailchimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black)
+Mandarin Chinese&nbsp;&nbsp; ![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Mailchimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black)
 <br/>
 <br/>
 
