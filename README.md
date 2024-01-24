@@ -7,10 +7,8 @@
   <li>As an artist (sculpture, installation, stained glass, performance), I bring a keen eye for design to my work.</li>
 </ul>
 
-<p align="center">Get a full picture of my work history here:</p>
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalyam)
-</p>
+Get a full picture of my work history here:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalyam)
+
 
 <br/>
 <br/>
