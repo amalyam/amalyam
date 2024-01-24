@@ -28,7 +28,7 @@ Or learn more about my transition into tech on my personal site [here](https://w
 <br/>
 <br/>
 
-For the best example of my skills with this tech stack, check out www.homeshinesolutions.com (repo [here](https://github.com/amalyam/homeshine-solutions/blob/main/README.md) )
+For the best example of my skills with this tech stack, check out www.homeshinesolutions.com (repo [here](https://github.com/amalyam/homeshine-solutions/blob/main/README.md))
 
 <br/>
 
