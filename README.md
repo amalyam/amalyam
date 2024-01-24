@@ -8,7 +8,8 @@
 </ul>
 <br/>
 
-Get a full picture of my work history here:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalyam)
+Get a full picture of my work history here:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalyam)
 
 
 <br/>
