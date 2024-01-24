@@ -22,6 +22,7 @@ Get a full picture of my work history here:
 </p>
 <br/>
 <br/>
+
 ## Learning:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -60,7 +61,6 @@ Mandarin Chinese ![Adobe PhotoShop](https://img.shields.io/badge/Adobe%20Photosh
 
 **Open to learning** any new language, framework, or other skills!
 
-<br/>
 <br/>
 
 ## Education
