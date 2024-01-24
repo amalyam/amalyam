@@ -6,13 +6,14 @@
   <li>Ambitious, hardworking, voracious learner, eager to grow.</li>
   <li>As an artist (sculpture, installation, stained glass, performance), I bring a keen eye for design to my work.</li>
   <li>I worked in China for 3+ years (fun fact: I once organized a learning conference at the Great Wall)</li>
-  <li>Learn more about my transition into tech on my personal site [here](https://www.amalyamegerman.com/cs-profile)</li>
 </ul>
 <br/>
 
 Get a full picture of my work history here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/amalyam)
+
+Or learn more about my transition into tech on my personal site [here](https://www.amalyamegerman.com/cs-profile)
 
 <br/>
 <br/>
