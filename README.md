@@ -75,8 +75,8 @@ Mandarin Chinese&nbsp;&nbsp;
 ## Education
 **Bachelor of Arts in Anthropology, Visual Arts, and Chinese Language and Culture**, Princeton University (2016) *Magna Cum Laude*
 
-**App Academy Open** (2022-present)
+**App Academy Open** (2024)
 - Self-paced, immersive, full-stack software development bootcamp
 
 **freeCodeCamp** (2022)
-- Completed their [JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- Completed [JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
