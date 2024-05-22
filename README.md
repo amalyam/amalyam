@@ -79,4 +79,4 @@ Mandarin Chinese&nbsp;&nbsp;
 - Self-paced, immersive, full-stack software development bootcamp
 
 **freeCodeCamp** (2022)
-- Completed [JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- Completed [JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/certification/amalyam/javascript-algorithms-and-data-structures)
