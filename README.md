@@ -2,8 +2,9 @@
 
 ## About Me:
 <ul>
-  <li>Software engineer who pivoted from freelance education and non-profit work.</li>
-  <li>Ambitious, hardworking, voracious learner, eager to grow.</li>
+  <li>Software engineer at Harvard John A. Paulson School of Engineering and Applied Sciences.</li>
+  <li>Ambitious, hardworking, voracious learner.</li>
+  <li>Pivoted from freelance education and non-profit work.</li>
   <li>As an artist (sculpture, installation, stained glass, performance), I bring a keen eye for design to my work.</li>
   <li>I worked in China for 3+ years (fun fact: I once organized a learning conference at the Great Wall)</li>
 </ul>
